@@ -1,2 +1,2 @@
 # electric_wizard
-Yet another fuzzing tool
+The heaviest digital toolkit in the universe
